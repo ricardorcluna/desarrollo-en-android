@@ -1,0 +1,38 @@
+<resources>
+    <!-- activity_acercade.xml -->
+    <string name="app_name">U3IMCIdiomaApp</string>
+    <string name="institucion">TECNOLOGICO NACIONAL DE MEXICO</string>
+    <string name="campus">CAMPUS LA LAGUNA</string>
+    <string name="carrera">Ingenería en Sistemas Computacionales</string>
+    <string name="materia">Desarrollo en Android</string>
+    <string name="semestre">Semestre: Ene-Jun/2022 </string>
+    <string name="grupo">Grupo: A 10-11</string>
+    <string name="leyenda_alumno">Alumno:</string>
+    <string name="alumno_nombre">Ricardo Raúl Castro Luna (18131227)</string>
+    <string name="derechos_resevados">(C) Derechos Reservados. Torreon, Coah. Mex, 2022</string>
+
+    <!-- activity_main.xml -->
+    <string name="edttitulo">Indice de Masa Corpolar</string>
+    <string name="edtPeso">Peso (Kg): </string>
+    <string name="edtEstatura">Estatura (m): </string>
+    <string name="btnCalcularIMC">CALCULAR IMC</string>
+    <string name="btnAcercaDe">Acerca De</string>
+
+    <!-- MainActivity.java -->
+    <string name="error_peso">El peso debe ser mayor de cero</string>
+    <string name="error_estatura">La estatura debe ser mayor de cero</string>
+    <string name="try_catch">El peso y la estatura deben tener un valor</string>
+    <string name="IMC">IMC</string>
+    <string name="leyenda_Aceptar">Aceptar</string>
+
+    <!-- Mensajes -->
+    <string name="leyenda_condicion">Su condición de salud es:</string>
+    <string name="Delgadez_muy_severa">Delgadez muy Severa</string>
+    <string name="Delgadez_severa">Delgadez Severa</string>
+    <string name="Delgadez">Delgadez</string>
+    <string name="Peso_saludable">Peso Saludable</string>
+    <string name="Sobrepeso">Sobrepeso</string>
+    <string name="Obesidad_moderada">Obesidad moderada</string>
+    <string name="Obesidad_severa">Obesidad severa</string>
+    <string name="Obesidad_muy_severa">0besidad muy Severa</string>
+</resources>

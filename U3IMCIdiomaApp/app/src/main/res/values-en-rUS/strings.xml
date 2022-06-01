@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- activity_acercade.xml -->
+    <string name="app_name">U3IMCIdiomaApp</string>
+    <string name="institucion">National Technological of Mexcio</string>
+    <string name="campus">Campus La Laguna</string>
+    <string name="carrera">Computer System Engineering</string>
+    <string name="materia">Android Development</string>
+    <string name="semestre">Semester: Jan-Jun/2022</string>
+    <string name="grupo">Group: A 10-11</string>
+    <string name="leyenda_alumno">Student:</string>
+    <string name="alumno_nombre">Ricardo Raúl Castro Luna (1813122)</string>
+    <string name="derechos_resevados">(C) Copyright, Torreon, Coah.  Mexico</string>
+
+    <!-- activity_main.xml -->
+    <string name="edttitulo">BODY MASS INDEX</string>
+    <string name="edtPeso">Weigth (Kg):</string>
+    <string name="edtEstatura">Height (m):</string>
+    <string name="btnCalcularIMC">Calcule BMI</string>
+    <string name="btnAcercaDe">About....</string>
+
+    <!-- MainActivity.java -->
+    <string name="error_peso">Weight must be greater than zero</string>
+    <string name="error_estatura">Height must be greater than zero</string>
+    <string name="try_catch">Weight and Height must be have a value</string>
+    <string name="IMC">BMI</string>
+    <string name="leyenda_Aceptar">Ok...</string>
+
+    <!-- Mensajes -->
+    <string name="leyenda_condicion">Your health condition is:</string>
+    <string name="Peso_saludable">Healthy Weight</string>
+    <string name="Sobrepeso">Overweight</string>
+    <string name="Delgadez_muy_severa">Very Severe Thinness</string>
+    <string name="Delgadez_severa">Severe Thinness</string>
+    <string name="Delgadez">Thinness</string>
+    <string name="Obesidad_moderada">Moderate Obesity</string>
+    <string name="Obesidad_severa">Severe Obesity</string>
+    <string name="Obesidad_muy_severa">Very Severe Obesity</string>
+</resources>
