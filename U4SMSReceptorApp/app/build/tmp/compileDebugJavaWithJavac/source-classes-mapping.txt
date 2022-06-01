@@ -1,0 +1,6 @@
+mx/edu/itl/c85360673/u4smsreceptorapp/BuildConfig.java
+ mx.edu.itl.c85360673.u4smsreceptorapp.BuildConfig
+mx/edu/itl/c85360673/u4smsreceptorapp/MainActivity.java
+ mx.edu.itl.c85360673.u4smsreceptorapp.MainActivity
+mx/edu/itl/c85360673/u4smsreceptorapp/SmsReceptor.java
+ mx.edu.itl.c85360673.u4smsreceptorapp.SmsReceptor
